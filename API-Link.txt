@@ -1,0 +1,3 @@
+Bu projede aşağıda belirttigim linkteki JSON dosyası kullanılmıştır. 
+
+-https://raw.githubusercontent.com/ozanerturk/covid19-turkey-api/master/dataset/timeline.json
